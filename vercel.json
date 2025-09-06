@@ -1,0 +1,6 @@
+{
+  "rewrites": [
+    { "source": "/canva/auth", "destination": "/api/canva/auth" },
+    { "source": "/canva/callback", "destination": "/api/canva/callback" }
+  ]
+}
